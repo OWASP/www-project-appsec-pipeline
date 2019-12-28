@@ -1,3 +1,4 @@
 ### Leaders
 
-* [Aaron Weaver](mailto://)
+* [Aaron Weaver](mailto:)
+* [Matt Tesauro](mailto:matt.tesauro@owasp.org)
