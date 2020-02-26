@@ -10,42 +10,41 @@ auto-migrated: 1
 ---
 # Main
 
-<div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
+![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg "OWASP_Project_Header.jpg")
 
-![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg
-"OWASP_Project_Header.jpg")
 
-</div>
+The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the
+speed and automation of your AppSec program. Using the sample implementation, documentation and references of
+this project will allow you to setup your own AppSec Pipeline.
 
-<table>
-<tbody>
-<tr class="odd">
-<p>The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the speed and automation of your AppSec program. Using the sample implementation, documentation and references of this project will allow you to setup your own AppSec Pipeline.</p>
-<h2 id="description">Description</h2>
-<p>The AppSec pipeline project is a place to gather together information, techniques and tools to create your own AppSec Pipeline. AppSec Pipelines takes the principles of DevOps and Lean and applies that to an application security program. The project will gather references, code, and specific guidance for tools/software which would compose an AppSec Pipeline.</p>
-<h2 id="licensing">Licensing</h2>
-<p>The OWASP AppSec Pipeline Project documentation is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 license</a>, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><h2 id="what_is_the_owasp_appsec_pipeline_project">What is the OWASP AppSec Pipeline Project?</h2>
-<p>The AppSec Pipeline project is a place to gather together information, techniques and tools to create your own AppSec Pipeline.</p>
-<p>The AppSec Pipeline project is a place to gather together information, techniques and tools to create your own AppSec Pipeline.</p>
-<h2 id="project_leaders">Project Leaders</h2>
-<h2 id="project_leaders">Project Leaders</h2>
-<p><a href="mailto:matt.tesauro@owasp.org">Matt Tesauro</a><br />
-<p><a href="mailto:matt.tesauro@owasp.org">Matt Tesauro</a><br />
-<a href="mailto:aaron.weaver2@gmail.com">Aaron Weaver</a><br />
-<a href="mailto:aaron.weaver2@gmail.com">Aaron Weaver</a><br />
-</p>
-</p>
-<h2 id="contributors">Contributors</h2>
-<h2 id="contributors">Contributors</h2>
-<p><br />
-<p><br />
-</p>
-</p>
-<h2 id="related_projects">Related Projects</h2>
-<h2 id="related_projects">Related Projects</h2>
-<p><a href="OWASP_Web_Testing_Environment_Project" title="wikilink">OWASP_Web_Testing_Environment_Project</a></p>
-<p><a href="OWASP_Web_Testing_Environment_Project" title="wikilink">OWASP_Web_Testing_Environment_Project</a></p>
+## Description
+
+The AppSec pipeline project is a place to gather together information, techniques and tools to create your own
+AppSec Pipeline. AppSec Pipelines takes the principles of DevOps and Lean and applies that to an application
+security program. The project will gather references, code, and specific guidance for tools/software which
+would compose an AppSec Pipeline.
+
+## Licensing
+
+The OWASP AppSec Pipeline Project documentation is licensed under the [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/")
+so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all
+provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute
+the resulting work only under the same or similar license to this one.
+
+## What is the OWASP AppSec Pipeline Project?
+
+The AppSec Pipeline project is a place to gather together information, techniques and tools to create your own AppSec Pipeline.
+
+## Project Leaders
+
+* [Matt Tesauro](mailto:matt.tesauro@owasp.org)
+* [Aaron Weaver](mailto:aaron.weaver2@gmail.com)
+
+## Contributors
+
+## Related Projects
+
+* [OWASP_Web_Testing_Environment_Project](OWASP_Web_Testing_Environment_Project)
 <p>| valign="top" style="padding-left:25px;width:200px;" |</p>
 <p>| valign="top" style="padding-left:25px;width:200px;" |</p>
 <h2 id="news_and_events">News and Events</h2>
@@ -504,9 +503,7 @@ Source of truth for all AppSec activities
 ## AppSec Pipeline Example \#1
 
 
-![AppSec-Pipeline-Example.png](AppSec-Pipeline-Example.png
-![AppSec-Pipeline-Example.png](AppSec-Pipeline-Example.png
-"AppSec-Pipeline-Example.png")
+![AppSec-Pipeline-Example.png](AppSec-Pipeline-Example.png "AppSec-Pipeline-Example.png")
 "AppSec-Pipeline-Example.png")
 
 
