@@ -341,8 +341,6 @@ review/tool.
 Please use our mailing list for feedback:
 
  - What do like?
- - What do like?
- - What don't you like?
  - What don't you like?
 
 
@@ -350,7 +348,7 @@ Please use our mailing list for feedback:
 [Category:OWASP Project](Category:OWASP_Project "wikilink")
 [Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
 [Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink") [AppSec
-Pipeline](Category:Projects "wikilink") [AppSec
-Pipeline](Category:Incubator_Projects "wikilink") [AppSec
-Pipeline](Category:OWASP_AppSec_Pipeline "wikilink")
+[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[AppSecPipeline](Category:Projects "wikilink")
+[AppSecPipeline](Category:Incubator_Projects "wikilink")
+[AppSecPipeline](Category:OWASP_AppSec_Pipeline "wikilink")
