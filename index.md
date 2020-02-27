@@ -1,54 +1,93 @@
 ---
-
 layout: col-sidebar
 title: OWASP Appsec Pipeline
-tags: example-tag
+tags: appsec-pipeline
 level: 0
 type: documentation
 
-auto-migrated: 1
-auto-migrated: 1
-
 ---
+# AppSec Pipeline Project
 
+![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg "OWASP_Project_Header.jpg")
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the
+speed and automation of your AppSec program. Using the sample implementation, documentation and references of
+this project will allow you to setup your own AppSec Pipeline.
 
-{front matter for this file}
+## Description
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+The AppSec pipeline project is a place to gather together information, techniques and tools to create your own
+AppSec Pipeline. AppSec Pipelines takes the principles of DevOps and Lean and applies that to an application
+security program. The project will gather references, code, and specific guidance for tools/software which
+would compose an AppSec Pipeline.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+## Licensing
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The OWASP AppSec Pipeline Project documentation is licensed under the [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/")
+so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all
+provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute
+the resulting work only under the same or similar license to this one.
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## What is the OWASP AppSec Pipeline Project
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+The AppSec Pipeline project is a place to gather together information, techniques and tools to create your own AppSec Pipeline.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+## Related Projects
 
-```
-{info.md}
+* [OWASP_Web_Testing_Environment_Project](OWASP_Web_Testing_Environment_Project)
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+## News and Events
 
-{leaders.md}
+* [AppSecPipeline Specification Diagram](https://raw.githubusercontent.com/appsecpipeline/AppSecPipeline-Specification/master/reference/diagrams/pipeline-static.png)
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+## In Print
 
--->
+* [Building an AppSec Pipeline](http://www.slideshare.net/weaveraaaron/building-an-appsec-pipeline-keeping-your-program-and-your-life-sane)
+* [Taking DevOps practices into your AppSec Life](http://www.slideshare.net/mtesauro/mtesauro-keynote-appseceu)
+
+## Acknowledgements
+
+### Contributors
+
+Besides the project leaders, contributions have been made by:
+
+*
+
+## Getting Involved
+
+Involvement in the DevOps AppSec Pipeline is actively encouraged!
+
+You do not have to be a security expert in order to contribute.
+
+If you are interested in participating or having your product included in the
+review? Contact [Aaron Weaver](mailto:aaron.weaver2@gmail.com)
+
+Some of the ways you can help:
+
+### Case Studies
+
+Share your AppSec Pipeline! We would like to gather case studies on how
+organizations are addressing AppSec at scale. Please email the project
+leaders to have your case study added.
+
+### Tools
+
+Is there a tool that is missing from our AppSec tooling review? Has your
+organization integrated or created a tool that integrates into the
+AppSec pipeline? Click on the 'Pipeline Tool's to contribute your
+review/tool.
+
+### Feedback
+
+Please use our mailing list for feedback:
+
+* What do like?
+* What don't you like?
+
+[Category:OWASP Project](Category:OWASP_Project "wikilink")
+[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
+[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
+[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[AppSecPipeline](Category:Projects "wikilink")
+[AppSecPipeline](Category:Incubator_Projects "wikilink")
+[AppSecPipeline](Category:OWASP_AppSec_Pipeline "wikilink")
