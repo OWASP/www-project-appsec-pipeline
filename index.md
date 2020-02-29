@@ -9,8 +9,6 @@ pitch: The AppSec Pipeline is a resource for AppSec teams to learn the best meth
 
 ---
 
-# AppSec Pipeline Project
-
 The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the
 speed and automation of your AppSec program. Using the sample implementation, documentation and references of
 this project will allow you to setup your own AppSec Pipeline.
