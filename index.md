@@ -21,7 +21,7 @@ would compose an AppSec Pipeline.
 
 ## Licensing
 
-The OWASP AppSec Pipeline Project documentation is licensed under the [Creative Commons Attribution-ShareAlike 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/")
+The OWASP AppSec Pipeline Project documentation is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/") (CC BY-SA 4.0)
 so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all
 provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute
 the resulting work only under the same or similar license to this one.
