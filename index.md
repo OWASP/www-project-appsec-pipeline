@@ -52,7 +52,7 @@ The AppSec Pipeline project is a place to gather together information, technique
 
 Besides the project leaders, contributions have been made by:
 
-* Michael J Reed @Archangel33
+* Michael J Reed [Archangel33](https://github.com/Archangel33) - [PR](https://github.com/OWASP/www-project-appsec-pipeline/pull/1) for project website migration
 
 ## Getting Involved
 
