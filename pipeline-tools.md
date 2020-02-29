@@ -6,8 +6,6 @@ tags: pipeline-tools tools
 
 ---
 
-# Pipeline Tools
-
 ## What are DevOp Security Pipeline Tools?
 
 
