@@ -1,9 +1,11 @@
 ---
+
 title: Pipeline Tools
-layout: null
+layout: col-sidebar
 tab: true
 order: 2
 tags: pipeline-tools tools
+
 ---
 
 # Pipeline Tools

@@ -1,11 +1,14 @@
 ---
+
 layout: col-sidebar
 title: OWASP Appsec Pipeline
 tags: appsec-pipeline
-level: 0
+level: 2
 type: documentation
 pitch: The AppSec Pipeline is a resource for AppSec teams to learn the best methods of adding automation and continual testing to an AppSec / Product Security / DevSecOps program.
+
 ---
+
 # AppSec Pipeline Project
 
 The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the
