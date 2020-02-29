@@ -8,8 +8,6 @@ pitch: The AppSec Pipeline is a resource for AppSec teams to learn the best meth
 ---
 # AppSec Pipeline Project
 
-![OWASP_Project_Header.jpg](OWASP_Project_Header.jpg "OWASP_Project_Header.jpg")
-
 The OWASP AppSec Rugged DevOps Pipeline Project is the place to find the information you need to increase the
 speed and automation of your AppSec program. Using the sample implementation, documentation and references of
 this project will allow you to setup your own AppSec Pipeline.
@@ -34,7 +32,7 @@ The AppSec Pipeline project is a place to gather together information, technique
 
 ## Related Projects
 
-* [OWASP_Web_Testing_Environment_Project](OWASP_Web_Testing_Environment_Project)
+* [OWASP_Web_Testing_Environment_Project](https://owasp.org/www-project-web-testing-environment/)
 
 ## News and Events
 
@@ -51,7 +49,7 @@ The AppSec Pipeline project is a place to gather together information, technique
 
 Besides the project leaders, contributions have been made by:
 
-*
+* Michael J Reed @Archangel33
 
 ## Getting Involved
 
@@ -60,7 +58,7 @@ Involvement in the DevOps AppSec Pipeline is actively encouraged!
 You do not have to be a security expert in order to contribute.
 
 If you are interested in participating or having your product included in the
-review? Contact [Aaron Weaver](mailto:aaron.weaver2@gmail.com)
+review? Contact the project leaders on the Google Group (TBD - see below)
 
 Some of the ways you can help:
 
@@ -79,15 +77,4 @@ review/tool.
 
 ### Feedback
 
-Please use our mailing list for feedback:
-
-* What do like?
-* What don't you like?
-
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
-[AppSecPipeline](Category:Projects "wikilink")
-[AppSecPipeline](Category:Incubator_Projects "wikilink")
-[AppSecPipeline](Category:OWASP_AppSec_Pipeline "wikilink")
+Google Group will be available shortly for feedback, questions, etc - mtesauro on 2020-02-29
