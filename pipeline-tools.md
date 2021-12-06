@@ -47,4 +47,6 @@ We are currently working on gathering a list of the current tools and evaluating
 
 ![Sample Tooling by Phase](assets/images/DevOps_AppSec_Tool_Integration.png)
 
+## Resources
 
++[OWASP Appsec Pipeline Project](https://owasp.org/www-project-appsec-pipeline/)
