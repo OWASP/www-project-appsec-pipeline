@@ -2,7 +2,7 @@
 
 * [Main Project Page](https://owasp.org/www-project-appsec-pipeline/)
 * [- Pipeline Tools](https://owasp.org/www-project-appsec-pipeline/pipeline-tools.html)
-* [- Pipeline Design Patterns](https://owasp.org/www-project-appsec-pipeline/pipeline-design.patterns.html)
+* [- Pipeline Design Patterns](https://owasp.org/www-project-appsec-pipeline/pipeline-design-patterns.html)
 * [- Pipeline Presentations](https://owasp.org/www-project-appsec-pipeline/presentations.html)
 * [- Pipeline Milestones](https://owasp.org/www-project-appsec-pipeline/milestones.html)
 * [- Pipeline FAQ](https://owasp.org/www-project-appsec-pipeline/faq.html)
